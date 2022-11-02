@@ -1,4 +1,4 @@
-# lng
+# Europe's LNG investments
 _Idea:_  [Michel Penke](https://michelpenke.de/)  
 
 _Research, data analysis and data visualization:_  [Michel Penke](https://michelpenke.de/), support: Julia Merk
