@@ -46,3 +46,5 @@ To show the difference between the conventional gas supply with Russian gas and 
 ### Overview Russia's LNG terminals
 
 ###
+
+_Caveats: As a lot of the data was difficult to obtain, the result is based on a lot of different data sources and also several expert inverviews._
