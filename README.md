@@ -25,11 +25,11 @@ In the following, more information on the creation process of the story is share
 | Replacement of pipeline gas | Institut für Seeverkehrswirtschaft und Logistik | [Article](https://www.isl.org/de/news/angriff-russlands-ukraine-stellt-lng-schifffahrt-sehr-grosse-herausforderungen) |
 |  | Global Energy Monitor | [Data](https://data.worldbank.org/indicator/BM.TRF.PWKR.CD.DT) |
 | LNG projects in Europe  | Gas Infrastructure Europe | [Data](https://www.gie.eu/transparency/databases/lng-database/) |
-| Greenhouse gas emissions for gas of different origins |Greenpeace, Fraunhofer-Gesellschaft, Umweltbundesamt| [Report](Link), [Report](https://www.isi.fraunhofer.de/content/dam/isi/dokumente/cce/2022/Hintergrundpapier_zu_Gasinfrastrukturen_TransHyDE_final.pdf), [Report](Link)
+| Greenhouse gas emissions for gas of different origins |Greenpeace, Fraunhofer-Gesellschaft, Umweltbundesamt| [Report](https://www.greenpeace.de/publikationen/20220725-greenpeace-report-lng-terminals.pdf), [Report](https://www.isi.fraunhofer.de/content/dam/isi/dokumente/cce/2022/Hintergrundpapier_zu_Gasinfrastrukturen_TransHyDE_final.pdf), [Report](https://www.umweltbundesamt.de/sites/default/files/medien/1410/publikationen/2019-05-15_cc_21-2019_roadmap-gas_lng.pdf), [Report](https://www.umweltbundesamt.de/sites/default/files/medien/1410/publikationen/cc_61-2021_emissionsfaktoren-stromerzeugung.pdf)
 | Reports by Think tanks on independency from Russian gas | Agora Energiewende, E3G | [Report](https://static.agora-energiewende.de/fileadmin/Projekte/2021/2021_07_EU_GEXIT/253_Regaining-Europes-Energy-Sovereignty_WEB.pdf), [Report](https://9tj4025ol53byww26jdkao0x-wpengine.netdna-ssl.com/wp-content/uploads/Briefing_EU-can-stop-Russian-gas-imports-by-2025.pdf)
 | EU Commission Plan "Fit for 55"| European Council | [Website](https://www.consilium.europa.eu/de/policies/green-deal/fit-for-55-the-eu-plan-for-a-green-transition/)
 | IGU World Report 2022| International Gas Union | [Report](https://www.igu.org/resources/world-lng-report-2022/)
-| LNG Situation Russia| Several | [Doc](https://deutschewelle-my.sharepoint.com/:w:/r/personal/michel_penke_dw_com/_layouts/15/Doc.aspx?sourcedoc=%7B1DB3CCB0-A120-4E22-9710-21D4F2DA0B5F%7D&file=Russia%20LNG%20_%20Situation%202022.docx&action=default&mobileredirect=true)
+| LNG Situation Russia| Several | [Doc](https://deutschewelle-my.sharepoint.com/:w:/r/personal/michel_penke_dw_com/_layouts/15/Doc.aspx?sourcedoc=%7B1DB3CCB0-A120-4E22-9710-21D4F2DA0B5F%7D&file=Russia%20LNG%20_%20Situation%202022.docx&action=default&mobileredirect=true), [Map](https://www.spglobal.com/commodityinsights/plattscontent/_assets/_images/latest-news/112318-infographic-russia-natgas-lng-large.jpg)
 
 # Analysis
 
