@@ -29,8 +29,6 @@ In the following, more information on the creation process of the story is share
 | Reports by Think tanks on independency from Russian gas | Agora Energiewende, E3G | [Report](https://static.agora-energiewende.de/fileadmin/Projekte/2021/2021_07_EU_GEXIT/253_Regaining-Europes-Energy-Sovereignty_WEB.pdf), [Report](https://9tj4025ol53byww26jdkao0x-wpengine.netdna-ssl.com/wp-content/uploads/Briefing_EU-can-stop-Russian-gas-imports-by-2025.pdf)
 | EU Commission Plan "Fit for 55"| European Council | [Website](https://www.consilium.europa.eu/de/policies/green-deal/fit-for-55-the-eu-plan-for-a-green-transition/)
 
-
-
 # Analysis
 
 ### Conventional vs LNG gas production
