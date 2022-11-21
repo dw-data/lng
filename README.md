@@ -35,17 +35,23 @@ In the following, more information on the creation process of the story is share
 
 ### Conventional vs LNG gas production
 
-To show the difference between the conventional gas supply with Russian gas and the supply with LNG gas, we created the illustration based on the Greenpeace report. 
+To show the difference between the conventional gas supply with Russian gas and the supply with LNG gas, an illustration was created based on the explanations of the Greenpeace report. 
 
 ![](graphics/.png)
 
 ### Overview LNG terminals in Europe
 
+For the first graph an area chart with the annual capacity (billion cubic meters) and the year of operation start of existing LNG terminals and one for the incomplete terminals with forecasted year of operation was created. The second graph shows the location of the existing as well as upcoming LNG terminals. The size of the squares is based on the scale of the LNG terminal.
+
 ### Hydrogen - the green alternative?
 
+This illustration was created based on the written explanations of the Greenpeace report about the processes of using hydrogen. 
+
 ### Which gas is the worst for the climate?
+Based on several reports, the CO2-Equivalents were calculated in three categories "Production", "Transport" and "Processing". The CO2-Equivalents were added and therefore allow the comparison of gas from different countries.  
 
 ### Overview Russia's LNG terminals
+Based on a qualitative research of several sources, the state of different Russian LNG terminals was examined and presented. 
 
 ###
 
