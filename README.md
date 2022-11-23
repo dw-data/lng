@@ -37,7 +37,7 @@ In the following, more information on the creation process of the story is share
 
 To show the difference between the conventional gas supply with Russian gas and the supply with LNG gas, an illustration was created based on the explanations of the Greenpeace report. 
 
-![](graphics/221024_Gas_LNG_Stand_EN.png)
+![](Graphics/221024_Gas_LNG_Stand_EN.png)
 
 ### Overview LNG terminals in Europe
 
