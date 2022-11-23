@@ -5,7 +5,7 @@ _Research, data analysis and data visualization:_  [Michel Penke](https://michel
 
 _Writing:_  [Michel Penke](https://michelpenke.de/)
 
-_Editing:_ 
+_Editing:_ Henrik Böhme 
 
 **Read the full article on DW.com:**
 
