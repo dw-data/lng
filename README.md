@@ -29,7 +29,7 @@ In the following, more information on the creation process of the story is share
 | Reports by Think tanks on independency from Russian gas | Agora Energiewende, E3G | [Report](https://static.agora-energiewende.de/fileadmin/Projekte/2021/2021_07_EU_GEXIT/253_Regaining-Europes-Energy-Sovereignty_WEB.pdf), [Report](https://9tj4025ol53byww26jdkao0x-wpengine.netdna-ssl.com/wp-content/uploads/Briefing_EU-can-stop-Russian-gas-imports-by-2025.pdf)
 | EU Commission Plan "Fit for 55"| European Council | [Website](https://www.consilium.europa.eu/de/policies/green-deal/fit-for-55-the-eu-plan-for-a-green-transition/)
 | IGU World Report 2022| International Gas Union | [Report](https://www.igu.org/resources/world-lng-report-2022/)
-| LNG Situation Russia| Several | [Doc](https://deutschewelle-my.sharepoint.com/:w:/r/personal/michel_penke_dw_com/_layouts/15/Doc.aspx?sourcedoc=%7B1DB3CCB0-A120-4E22-9710-21D4F2DA0B5F%7D&file=Russia%20LNG%20_%20Situation%202022.docx&action=default&mobileredirect=true), [Map](https://www.spglobal.com/commodityinsights/plattscontent/_assets/_images/latest-news/112318-infographic-russia-natgas-lng-large.jpg)
+| LNG Situation Russia| Several | [Western technology](https://www.upstreamonline.com/lng/russian-government-ignores-plea-to-bankroll-lng-projects/2-1-1283895),[Western partners leaving LNG projects](https://www.highnorthnews.com/en/western-sanctions-delay-opening-arctic-lng-2-project-one-year), [Russias LNG former plans] (https://www.reuters.com/business/energy/russias-lng-plans-face-rethink-after-eu-sanctions-equipment-analysts-2022-04-12/), [Map of Russian LNG plans (old)](https://www.spglobal.com/commodityinsights/plattscontent/_assets/_images/latest-news/112318-infographic-russia-natgas-lng-large.jpg)
 
 # Analysis
 
