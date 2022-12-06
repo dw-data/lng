@@ -13,7 +13,7 @@ _Editing:_ Henrik Böhme
 
 Since the start of the war in Ukraine in February 2022, Europe is trying to replace Russian gas. Especially Germany, Italy, Netherlands, Slovakia and France are big gas consumers. European countries are now investing billions in LNG infrastructure to replace Russian gas with LNG. However, the EU set itself the goal of being climate neutral by 2050 and that means no LNG. Hydrogen-ready is supposed to be the salvation from this as the LNG infrastructure is meant to be used for hydrogen. However, there are no clear strategies yet and a lot is unclear in regards to the usage of LNG infrastructure for hydrogen. Therefore, these current investments look like an expensive dead end for taxpayers and the climate. This analysis looks at the current investments in LNG infrastructure, the potential of hydrogen and the climate burden. 
 
-In the following, more information on the creation process of the story is shared: Which data sources were used, how the analysis was conducted and how the data was visualized.
+In the following, more information on the creation process of the story is shared: Which data sources were used, how the analysis was conducted and how the data was visualized. 
 
 
 # Data
@@ -39,11 +39,16 @@ To show the difference between the conventional gas supply with Russian gas and 
 
 ![](Graphics/221024_Gas_LNG_Stand_EN.png)
 
+_Caveats: Future capacities could change in the future. So, the chart show a snapshot of the current plans, as far as known. Several governements did not respond to requests concerning detailed financial figures about costs or guarantees. The data is is an approximation to reality._
+
 ### Overview LNG terminals in Europe
 
 For the this graph an area chart with the annual capacity (billion cubic meters) and the year of operation start of existing LNG terminals and one for the incomplete terminals with forecasted year of operation was created. The second graph shows the location of the existing as well as upcoming LNG terminals. The size of the squares is based on the scale of the LNG terminal.
 
+For this chart the LNG Database of the GIE was used. Gaps were filled by additional qualitative research and FOI-requests to several European governements. 
 ![](Graphics/404_en_LNG_capacity.png)
+
+_Caveats: Data concerning emissions of LNG is disputed among the scientific community. There are several reports differing from each other. For one reason there is not enough research done, for another, emissions depend highly on several factors such as the age of the infrastructure, climate and size of tankers. The data used in this chart should be understood as an average of several studies._ 
 
 ### Hydrogen - the green alternative?
 
@@ -61,4 +66,4 @@ Based on a qualitative research of several sources, the state of different Russi
 
 ![](Graphics/407_en_LNG_russia.png)
 
-_Caveats: As a lot of the data was difficult to obtain, the result is based on a lot of different data sources and also several expert inverviews._
+_Caveats: As a lot of the data was difficult to obtain, the result is based on a lot of different data sources and also several expert interviews._
