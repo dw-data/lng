@@ -39,16 +39,15 @@ To show the difference between the conventional gas supply with Russian gas and 
 
 ![](Graphics/221024_Gas_LNG_Stand_EN.png)
 
-_Caveats: Future capacities could change in the future. So, the chart show a snapshot of the current plans, as far as known. Several governements did not respond to requests concerning detailed financial figures about costs or guarantees. The data is is an approximation to reality._
-
 ### Overview LNG terminals in Europe
 
 For the this graph an area chart with the annual capacity (billion cubic meters) and the year of operation start of existing LNG terminals and one for the incomplete terminals with forecasted year of operation was created. The second graph shows the location of the existing as well as upcoming LNG terminals. The size of the squares is based on the scale of the LNG terminal.
 
 For this chart the LNG Database of the GIE was used. Gaps were filled by additional qualitative research and FOI-requests to several European governements. 
+
 ![](Graphics/404_en_LNG_capacity.png)
 
-_Caveats: Data concerning emissions of LNG is disputed among the scientific community. There are several reports differing from each other. For one reason there is not enough research done, for another, emissions depend highly on several factors such as the age of the infrastructure, climate and size of tankers. The data used in this chart should be understood as an average of several studies._ 
+_Caveats: Future capacities could change in the future. So, the chart show a snapshot of the current plans, as far as known. Several governements did not respond to requests concerning detailed financial figures about costs or guarantees. The data is is an approximation to reality._
 
 ### Hydrogen - the green alternative?
 
@@ -60,6 +59,8 @@ This illustration was created based on the written explanations of the Greenpeac
 Based on several reports, the CO2-Equivalents were calculated in three categories "Production", "Transport" and "Processing". The CO2-Equivalents were added and therefore allow the comparison of gas from different countries.  
 
 ![](Graphics/406_en_LNG_climate.png)
+
+_Caveats: Data concerning emissions of LNG is disputed among the scientific community. There are several reports differing from each other. For one reason there is not enough research done, for another, emissions depend highly on several factors such as the age of the infrastructure, climate and size of tankers. The data used in this chart should be understood as an average of several studies._ 
 
 ### Overview Russia's LNG terminals
 Based on a qualitative research of several sources, the state of different Russian LNG terminals was examined and presented. 
